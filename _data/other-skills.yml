@@ -1,0 +1,11 @@
+- name: System Integration
+  percentage: 95
+  color: info
+
+- name: CAD
+  percentage: 90
+  color: success
+
+- name: 3D printing
+  percentage: 90
+  color: success

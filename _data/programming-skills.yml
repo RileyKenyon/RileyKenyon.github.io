@@ -1,0 +1,16 @@
+- name: Matlab
+  percentage: 95
+  color: danger
+
+- name: Simulink
+  percentage: 80
+  color:
+
+- name: Python
+  percentage: 80
+  color: 
+
+- name: LabVIEW
+  percentage: 70
+  color: dark
+
