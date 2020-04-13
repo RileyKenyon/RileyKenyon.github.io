@@ -1,35 +1,19 @@
-- title: Engineering Project Support - Siemens Gamesa Renewable Energy
-  from: May 2019
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Graduate Student - University of Colorado, Boulder ME
+- title: University of Colorado, Boulder - Mechanical Engineering
   from: Aug 2019
   to: May 2020
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: M.S. Mechanical Engineering (GPA 3.95) - Focus in Controls and Robotics
+
+- title: Engineering Project Support - Siemens Gamesa Renewable Energy
+  from: May 2019
+  to: May 2020
+  description: Aided in the implementation of an automated ground-based solution for external blade inspections. Developed a smart-recognition script using OpenCV to locate the blade tip and follow blade profile to the blade root.
 
 - title: Manufacturing Intern - Electro-Mechanical Products, Lakewood CO
   from: May 2018
   to: Aug 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Re-designed a manual pressure test unit to create an automated solution. The micro-controller powering the logic of the device is a Itsy Bitsy from Adafruit. The peripherals of the unit include a differential pressure transducer, thermo-couple, pump, heater, fan, solenoid valves, flow sensor, and more. 
 
-- title: Undergraduate Student - University of Colorado, Boulder ME
+- title: University of Colorado, Boulder - Mechanical Engineering
   from: Aug 2015
   to: May 2019
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: B.S. Mechanical Engineering (GPA 3.85)

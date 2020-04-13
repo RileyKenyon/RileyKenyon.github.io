@@ -1,0 +1,6 @@
+<figure class="figure w-25">
+  <img src="{{ include.image }}" class="figure-img w-25 rounded" alt="{{ include.alt | default: include.caption }}">
+  {%- if include.caption -%}
+    <figcaption class="figure-caption text-center">{{ include.caption }}</figcaption>
+  {%- endif -%}
+</figure>
