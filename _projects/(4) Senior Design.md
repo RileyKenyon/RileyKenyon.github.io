@@ -8,11 +8,7 @@ description: Designed and integrated a motorized fixture to remotely rotate a 50
 **Project**: Animal Care Systems (Company), Mechanized Motor Kit
 
 **Role**: Test Engineer
-<div class="d-block">
-<div class="row w-25">
-<img src="/img/2019/SD_animalcaresystems.jpg" alt="Motor kit at design expo" style="diplay: block; margin: auto;" height="640">
-</div>
-</div>
+
 The mechanized motor kit is an add-on for Animal Care System’s Optimice 100 animal carousel – these units are used for monitoring mice in laboratory settings. In order to make it the most comfortable for the nocturnal animals, the desired monitoring scenario is overnight. Instead of sending a technician to perform observation, the add-on kit we developed could be used to remotely monitor the mice and rotate the chassis. The main learning goals over the project were:
 
 * Client/Server side scripting for a server hosted on a Raspberry Pi for signal output through a web-interface
@@ -21,6 +17,7 @@ The mechanized motor kit is an add-on for Animal Care System’s Optimice 100 an
 * Noise and vibration testing
 
 {% capture carousel_images %}
+/img/2019/SD_animalcaresystems.jpg
 /img/2019/SD_communicationschematicv6.png
 /img/2019/SD_final-expo-poster.png
 /img/2019/SD_gui_layout.png

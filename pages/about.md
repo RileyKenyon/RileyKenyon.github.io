@@ -12,9 +12,10 @@ I am a recent graduate from the **University of Colorado, Boulder** with a maste
 I regularly use the linux command line and I have developed a personal interest in software/hardware integration. Although I am most comfortable with Matlab and Simulink, I have taught myself C, CUDA, and python. In my time as a student I have collected a significant amount of embedded hardware which I use in my projects - my favorite being the Jetson Nano from NVIDIA. 
 
 Currently, I hold several certifications related to CAD and software.
-* **CSWA (certified SolidWorks associate)**
-* **NVIDIA Fundamentals of Accelerated Computing with CUDA C/C++**
-* **STK Level 1 Certified** 
+* [CSWA (certified SolidWorks associate)](https://3dexperience.virtualtester.com/#certvalidate) (C-33LVZSD55F)
+* [NVIDIA Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/4b41430edbef4d3591da488224119385)
+* [STK Level 1 Certified](/img/2019/RK_Level1.png)
+* [Embedded Hardware and Software Architecture](/img/2019/EmbeddedCert.pdf) 
 
 In the future, I aspire to be a controls and robotics engineer. I am working towards that goal by broadening my knowledge on the subject, picking up projects, and reading literature in the field.
 
