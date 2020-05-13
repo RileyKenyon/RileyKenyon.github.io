@@ -19,7 +19,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
   <!-- Font Awesome CDN -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
 
   <!-- Bootstrap CSS CDN -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -63,77 +63,18 @@
 
 </nav>
   <div class="col-lg-10 mx-auto mt-5 post">
-  <h1 id="senior-design-project---university-of-colorado-boulder">Senior Design Project - University of Colorado, Boulder</h1>
-<p><strong>Project</strong>: Animal Care Systems (Company), Mechanized Motor Kit</p>
+  <h1 id="independent-study">Independent Study</h1>
+<p>This project was an Independent Study performed with Dr. Shalom Ruben to utilize a GPU for visual servoing. At the time of the project development, Nvidia had just released the Jetson Nano – a SOM (system on module) for affordable computer vision, deep learning, etc. The more expensive system (Jetson TX2) was used initially for setup and preliminary testing of GPIO and CUDA programming. The two systems were used to develop the code, but ultimately the implementation finished on the Nano.</p>
 
-<p><strong>Role</strong>: Test Engineer</p>
-<div class="d-block">
-<div class="row w-25">
-<img src="/img/2019/SD_animalcaresystems.jpg" alt="Motor kit at design expo" style="diplay: block; margin: auto;" height="640">
-</div>
-</div>
-<p>The mechanized motor kit is an add-on for Animal Care System’s Optimice 100 animal carousel – these units are used for monitoring mice in laboratory settings. In order to make it the most comfortable for the nocturnal animals, the desired monitoring scenario is overnight. Instead of sending a technician to perform observation, the add-on kit we developed could be used to remotely monitor the mice and rotate the chassis. The main learning goals over the project were:</p>
+<p>The goal of the project was to use frames from a Raspberry Pi camera to determine when to tap the phone screen while playing the game “Piano Tiles”. A previous attempt was made using a Raspberry Pi, but the result was a failure at 7 in/s (the speed of the screen). Although fast, a human could still tap faster and beat the machine. See the improvements on the GPU with a record of 11 in/s. 
+The final report of the project can be found here.
+<a class="m-1 btn btn-outline-primary btn-2 " href="/img/2019/finalreport_rileykenyon_sp2019-1.pdf">
+  Report
+</a></p>
 
-<ul>
-  <li>Client/Server side scripting for a server hosted on a Raspberry Pi for signal output through a web-interface</li>
-  <li>Specifying components and integrating an electrical system to rotate the carousel (PSU, Bi-Polar stepper motor, stepper driver, controller)</li>
-  <li>Understanding micro-stepping for stepper motors and the associated torque losses</li>
-  <li>Noise and vibration testing</li>
-</ul>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/362217850" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="false">
-
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
-<li data-target="#carouselExampleIndicators" data-slide-to="1">
-<li data-target="#carouselExampleIndicators" data-slide-to="2">
-<li data-target="#carouselExampleIndicators" data-slide-to="3">
-<li data-target="#carouselExampleIndicators" data-slide-to="4">
-  </ol>
-
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-          <img src="/img/2019/SD_communicationschematicv6.png" class="d-block img-fluid" style="max-height: 480px">
-        </div>
-<div class="carousel-item">
-          <img src="/img/2019/SD_final-expo-poster.png" class="d-block img-fluid" style="max-height: 480px">
-        </div>
-<div class="carousel-item">
-          <img src="/img/2019/SD_gui_layout.png" class="d-block img-fluid" style="max-height: 480px">
-        </div>
-<div class="carousel-item">
-          <img src="/img/2019/SD_motor.jpg" class="d-block img-fluid" style="max-height: 480px">
-        </div>
-<div class="carousel-item">
-          <img src="/img/2019/SD_teamphoto.png" class="d-block img-fluid" style="max-height: 480px">
-        </div>
-  </div>
-
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-
-</div>
-
-<div class="container-fluid">
- <div class="row">
-    <div class="col-sm">
-      <iframe src="https://player.vimeo.com/video/362662367" style="display: block; margin: auto;" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
-    </div>
-    <div class="col-sm">
-      <iframe src="https://player.vimeo.com/video/362662352" style="display: block; margin: auto;" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
-
-    </div>
-</div>
-
-For this project, students were assigned to teams of 6 to simulate working with other engineers on a project. Within our team, I elected to be the test engineer on the project. My duties included creating a test plan to satisfy all the design requirements and specifications. Additionally, I determined the hardware used in the design as well as the full integration of components. 
-</div>
 
 </div>
   </main>

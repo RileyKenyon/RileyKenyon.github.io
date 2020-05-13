@@ -5,7 +5,7 @@ permalink: /personal/
 weight: 4
 ---
 
-# **About Me**
+# **Personal Life**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 {% capture carousel_images %}

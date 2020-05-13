@@ -2,7 +2,7 @@
 name: Flow Visualization
 tools: [cinematography, fluid dynamics]
 image: /img/2019/flowvis_cavitation.jpg
-description: Aided in the implementation of an automated ground-based solution for external blade inspections. Developed a smart-recognition script using OpenCV to locate the blade tip and follow blade profile to the blade root.
+description: Visualized the fluid flow of several phenomenon including cavitation, snap freezing, and cloud formation. 
 ---
 # Flow Visualization
 Flow visualization is a course at the University of Colorado that combines art with engineering analysis. The main learning goals are to understand how engineering can be incorporated in artistic design, and how fluid phenomenon can be observed to be both complex analytically and visually stunning.

@@ -32,6 +32,7 @@ In order to automate the process and allow for more productive time (manually sw
 {% endcapture %}
 {% include elements/carousel-custom.html %}
 
+
 The deliverables and skills learned from the project are summarized as:
 
 * Designing and implementing an semi-automated solution to increase productivity while reducing the cost of a unit

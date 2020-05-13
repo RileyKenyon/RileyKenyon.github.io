@@ -1,9 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins");
-.carousel-control-prev-icon, .carousel-control-next-icon { height: 100px; width: 100px; outline: black; }
-
-.carousel-control-next-icon:after { content: '>'; font-size: 55px; color: red; }
-
-.carousel-control-prev-icon:after { content: '<'; font-size: 55px; color: red; }
+.carousel-control-next, .carousel-control-prev { filter: invert(50%); }
 
 .cls-1 { fill: #ffc541; }
 
@@ -285,6 +281,8 @@
 .highlight .cpf { color: #aaaaaa; font-style: italic; }
 
 /* Comment.PreprocFile */
+html { padding-left: calc(100vw - 100%); }
+
 body { font-family: "Poppins", sans-serif; }
 
 .badge { font-weight: 500; }

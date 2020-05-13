@@ -1,19 +1,20 @@
-- title: University of Colorado, Boulder - Mechanical Engineering
+- title: M.S. Mechanical Engineering - University of Colorado, Boulder
   from: Aug 2019
   to: May 2020
-  description: M.S. Mechanical Engineering (GPA 3.95) - Focus in Controls and Robotics
+  description: GPA 3.95 - Focus in Controls and Robotics
 
 - title: Engineering Project Support - Siemens Gamesa Renewable Energy
   from: May 2019
   to: May 2020
   description: Aided in the implementation of an automated ground-based solution for external blade inspections. Developed a smart-recognition script using OpenCV to locate the blade tip and follow blade profile to the blade root.
 
+- title: B.S. Mechanical Engineering - University of Colorado, Boulder
+  from: Aug 2015
+  to: May 2019
+  description: GPA 3.85 - Involved in the Golden Buffalo Marching Band
+
 - title: Manufacturing Intern - Electro-Mechanical Products, Lakewood CO
   from: May 2018
   to: Aug 2018
   description: Re-designed a manual pressure test unit to create an automated solution. The micro-controller powering the logic of the device is a Itsy Bitsy from Adafruit. The peripherals of the unit include a differential pressure transducer, thermo-couple, pump, heater, fan, solenoid valves, flow sensor, and more. 
 
-- title: University of Colorado, Boulder - Mechanical Engineering
-  from: Aug 2015
-  to: May 2019
-  description: B.S. Mechanical Engineering (GPA 3.85)

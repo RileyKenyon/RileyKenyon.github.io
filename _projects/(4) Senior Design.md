@@ -1,6 +1,6 @@
 ---
 name: Senior Design Project
-tools: [arduion, python, integration, testing]
+tools: [arduino, python, integration, testing]
 image: /img/2019/SD_final-expo-poster.png
 description: Designed and integrated a motorized fixture to remotely rotate a 500 lb inertia through a GUI hosted on a Raspberry Pi. Implemented a live video feed to remotely monitor and fine-tune the system.
 ---
