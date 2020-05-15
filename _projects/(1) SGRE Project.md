@@ -27,10 +27,9 @@ My main responsibilities include:
 The day-to-day work varies between testing functionality at the Boulder test site (NREL Flatirons Campus, formerly National Wind Technology Center (NWTC)), working remotely on development, and working at the office to create documentation.
 
 {% capture carousel_images %}
-/img/2019/SGRE_camera.jpg
+/img/2019/SGRE_tower.jpg
 /img/2019/SGRE_tip_hsv.png
-/img/2019/SGRE_enclosure.jpg
-/img/2019/SGRE_cv_spectrum.png
+/img/2019/SGRE_cv_center.jpg
 {% endcapture %}
 {% include elements/carousel-custom.html %}
 
