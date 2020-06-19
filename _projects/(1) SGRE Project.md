@@ -1,5 +1,5 @@
 ---
-name: Siemens Gamesa Renewable Energy - Tower Mounted Camera
+name: Siemens Gamesa Renewable Energy - External Blade Inspections
 tools: [openCV, python, R&D]
 image: /img/2019/SGRE_tower.jpg
 description: Aided in the implementation of a novel solution for external blade inspections. Developed a smart-recognition script using OpenCV to aid in automation. 
@@ -42,6 +42,6 @@ The skills learned from the project are summarized as:
 * Creating a command line interface to specify input values for inspection, while being modular for expansion
 * Exposure to wind renewable energy, familiarity with turbine components, blade defects and composition
 
-{% include elements/figure.html image="/img/2019/SGRE_testturbine_a_pressureside-1.png" caption="Stitched image of pressure side of Boulder Turbine T-01 utilizing meta-data and images acquired from the automated blade inspection camera." %}
+{% include elements/figure.html image="/img/2019/SGRE_testturbine_a_pressureside-1.png" caption="Stitched image of pressure side of Boulder Turbine T-01 utilizing meta-data and images acquired from the novel inspection solution." %}
 
 This position gave me an opportunity to implement computer vision on a SOC utilizing python while simultaneously exposing me to how business and product development operates within a large company.
