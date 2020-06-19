@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-I am a recent graduate from the **University of Colorado, Boulder** with a master's degree in mechanical engineering. During my time in academia, I have pursued my interests in mechatronics, automation, and control theory. I am an avid 3D printer, robotics hobbyist, and musician (I play the baritone). I have experience in R&D for the wind industry where I worked to develop a prototype that is being commercialized by **Siemens Gamesa Renewable Energy**. My other industry experience includes creating an automated quality control system for a manufacturing facility based off a microcontroller to increase their testing efficiency by 30%. 
+I graduated from the **University of Colorado, Boulder** in May, 2020 with a master's degree in mechanical engineering. During my time in academia, I have pursued my interests in mechatronics, automation, and control theory. I am an avid 3D printer, robotics hobbyist, and musician (I play the baritone). I have experience in R&D for the wind industry where I worked to develop a prototype that is being commercialized by **Siemens Gamesa Renewable Energy**. My other industry experience includes creating an automated quality control system for a manufacturing facility based off a microcontroller to increase their testing efficiency by 30%. 
 
 I regularly use the linux command line and I have developed a personal interest in software/hardware integration. Although I am most comfortable with Matlab and Simulink, I have taught myself C, CUDA, and python. In my time as a student I have collected a significant amount of embedded hardware which I use in my projects - my favorite being the Jetson Nano from NVIDIA. 
 
