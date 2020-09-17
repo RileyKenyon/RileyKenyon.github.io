@@ -4,3 +4,6 @@
 # Design Files
 *.psd
 *.ai
+
+# site files
+*_site/*
