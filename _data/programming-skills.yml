@@ -3,18 +3,18 @@
   color: success
 
 - name: Simulink
-  percentage: 85
+  percentage: 95
   color: success
 
-- name: Python
+- name: C
   percentage: 85
+  color:
+
+- name: Python
+  percentage: 90
   color: success
 
 - name: LabVIEW
   percentage: 80
-  color:
-
-- name: C
-  percentage: 75
   color:
 

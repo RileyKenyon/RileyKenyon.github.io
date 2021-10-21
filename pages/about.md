@@ -7,18 +7,20 @@ weight: 3
 
 # **About Me**
 
-I graduated from the **University of Colorado, Boulder** in May, 2020 with a master's degree in mechanical engineering. During my time in academia, I have pursued my interests in mechatronics, automation, and control theory. I am an avid 3D printer, robotics hobbyist, and musician (I play the baritone). I have experience in R&D for the wind industry where I worked to develop a prototype that is being commercialized by **Siemens Gamesa Renewable Energy**. My other industry experience includes creating an automated quality control system for a manufacturing facility based off a microcontroller to increase their testing efficiency by 30%. 
+I graduated from the **University of Colorado, Boulder** in May, 2020 with a master's degree in mechanical engineering. During my time in academia, I have pursued my interests in mechatronics, automation, and control theory. I am an avid 3D printer, robotics hobbyist, and musician. Currently I am a Controls Engineer for **Trimble** in their Autonomy division working on off-road autonomous vehicles for agriculture and construction. Day to day I use a variety of programming languages (C, Python, Simulink) and operating systems (Windows, MacOS, Linux), and am familiar with communication protocols such as CAN (primarily J1939) and UDP. I am familiar with model based design using Matlab and Simulink, including generating code from models and wrapping existing source code written in C for use in simulation. Prior to off-road autonomy, I have experience in R&D for the wind industry where I worked to develop a prototype that is being commercialized by **Siemens Gamesa Renewable Energy**. My other industry experience includes creating an automated quality control system for a manufacturing facility based off a microcontroller to increase their testing efficiency by 30%. 
 
 I regularly use the linux command line and I have developed a personal interest in software/hardware integration. Although I am most comfortable with Matlab and Simulink, I have taught myself C, CUDA, and python. In my time as a student I have collected a significant amount of embedded hardware which I use in my projects - my favorite being the Jetson Nano from NVIDIA. 
 
-Currently, I hold several certifications related to CAD and software.
+Currently, I hold several professional and academic certificates. Most recently I am pursuing courses in Self-Driving vehicles published by the University of Toronto on Coursera.
+* [Introduction to Self-Driving Cars](https://coursera.org/share/032ec70ab4c0c89af6ac137e3cae8d09)
+* [State Estimation and Localization for Self-Driving Cars](https://coursera.org/share/99d5d409f171ad2d520ee38bdeeea653)
 * [FE Mechanical Exam](https://account.ncees.org/rn/1995547-1203096-0c607b3)
 * [CSWA (certified SolidWorks associate)](https://3dexperience.virtualtester.com/#certvalidate) (C-33LVZSD55F)
 * [NVIDIA Fundamentals of Accelerated Computing with CUDA C/C++](https://courses.nvidia.com/certificates/4b41430edbef4d3591da488224119385)
 * [STK Level 1 Certified](/img/2019/RK_Level1.png)
 * [Embedded Hardware and Software Architecture](/img/2019/EmbeddedCert.pdf) 
 
-In the future, I aspire to be a controls and robotics engineer. I am working towards that goal by broadening my knowledge on the subject, picking up projects, and reading literature in the field.
+I aspire to better my understanding of autonomy everyday by exercising my existing skillset, picking up projects, and reviewing literature to broaden my domain knowledge.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
