@@ -11,7 +11,7 @@ I graduated from the **University of Colorado, Boulder** in May, 2020 with a mas
 
 I regularly use the linux command line and I have developed a personal interest in software/hardware integration. Although I am most comfortable with Matlab and Simulink, I have taught myself C, CUDA, and python. In my time as a student I have collected a significant amount of embedded hardware which I use in my projects - my favorite being the Jetson Nano from NVIDIA. 
 
-Currently, I hold several professional and academic certificates. Most recently I have been enrolled in a Self-Driving vehicle course published by the University of Toronto on Coursera.
+Currently, I hold several professional and academic certificates. Most recently I am pursuing courses in Self-Driving vehicles published by the University of Toronto on Coursera.
 * [Introduction to Self-Driving Cars](https://coursera.org/share/032ec70ab4c0c89af6ac137e3cae8d09)
 * [State Estimation and Localization for Self-Driving Cars](https://coursera.org/share/99d5d409f171ad2d520ee38bdeeea653)
 * [FE Mechanical Exam](https://account.ncees.org/rn/1995547-1203096-0c607b3)
