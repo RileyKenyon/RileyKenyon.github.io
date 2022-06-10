@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  website:
+    build:
+      context: ../
+      dockerfile: docker/Dockerfile
+    image: jekyll-base
+    network_mode: host
+    volumes:
+      - ${REPO_ROOT}:/root/website
