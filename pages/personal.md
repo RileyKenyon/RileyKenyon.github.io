@@ -15,5 +15,5 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 /img/2019/marchingband.jpg
 {% endcapture %}
 {% include elements/carousel-custom.html %}
-Outside of academia and my career I enjoy bowling, tinkering with electronics, and home improvement. Throughout my undergrad I was involved the Golden Buffalo Marching Band as the baritone section leader. My most memorable experiences in college were traveling with the band to support the football and basketball teams. 
+In my free time I enjoy bowling, tinkering with electronics, and home improvement. Throughout my undergrad I was involved the Golden Buffalo Marching Band as the baritone section leader. My most memorable experiences in college were traveling with the band to support the football and basketball teams. 
 

@@ -1,20 +1,25 @@
-- name: Matlab
-  percentage: 95
-  color: success
-
 - name: Simulink
   percentage: 95
   color: success
 
-- name: C
-  percentage: 85
-  color:
+- name: Matlab
+  percentage: 95
+  color: success
 
-- name: Python
+- name: C++
   percentage: 90
   color: success
 
+- name: C
+  percentage: 85
+  color: warning
+
+
+- name: Python
+  percentage: 80
+  color: warning
+
 - name: LabVIEW
   percentage: 80
-  color:
+  color: danger
 
