@@ -6,6 +6,8 @@ description: Re-designed a manual pressure test unit to create an automated solu
 ---
 # Coherent Pressure Test Unit 
 
+**Company**: Electro-Mechanical Products (EMP)
+
 **Project**: Coherent Pressure Test Unit
 
 **Role**: Manufacturing Intern
