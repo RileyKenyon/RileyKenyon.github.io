@@ -6,7 +6,9 @@ description: Aided in the implementation of a novel solution for external blade 
 ---
 # Automated Blade Inspection Camera
 
-**Project** : Automated Blade Inspection Camera
+**Company**: Siemens Gamesa Renewable Energy
+
+**Project**: Automated Blade Inspection Camera
 
 **Role**: Engineering Project Support 
 

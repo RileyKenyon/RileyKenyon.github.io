@@ -1,0 +1,14 @@
+- name: Git
+  percentage: 95
+  color: success
+
+- name: Jira
+  percentage: 85
+  color: success
+  
+- name: Docker
+  percentage: 70
+  color: warning
+
+
+
