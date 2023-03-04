@@ -10,13 +10,15 @@ Create an .env file in the docker directory to set the environment variables use
 REPO_ROOT="YOUR_PATH_HERE"
 ```
 
-Use docker-compose to run the build the image and run the container:
+Use docker compose to run the build the image and run the container:
 
 ```
 cd docker
-docker-compose build
-docker-compose up -d
+docker compose build
+docker compose up -d
 
 # when finished with the container
-docker-compose down
+docker compose down
 ```
+
+When the container is running, the site is viewable at http://localhost:4000/
