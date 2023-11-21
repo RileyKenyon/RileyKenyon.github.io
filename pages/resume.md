@@ -17,12 +17,70 @@ Broomfield, CO, USA • Riley.Kenyon@colorado.edu • 303-330-5684 • [rileyken
 - GPA: 3.85/4.0
 
 #### Certificates:
+- University of Toronto Self Driving Vehicle
 - Certified SolidWorks Associate (C-33LVZSD55F)
 - NVIDIA Fundamentals of Accelerated Computing with CUDA C/C++
 - STK level 1 Certified
 
 ## ENGINEERING EXPERIENCE
-### Siemens Gamesa Renewable Energy, Engineering Project Support - Blade Inspection Camera May 2019 – Present
+### Trimble, Inc. - Control Systems Software Engineer (Jan 2021 - Present)
+- Developing control systems in the Trimble Autonomous Solutions division for agriculture and construction vehicles.
+
+#### 2021 / 2022 
+General responsibilities
+- Developing Simulink models with custom embedded coder target for code generation in C.
+- Co-authored the division’s simulink framework, used to deploy vehicle control systems to various hardware (ECU, embedded Linux)
+- Established Simulink model style guidelines based off the Mathworks Advisory Board recommendations
+- Design of autonomous vehicle control functions (steering, speed, vibration, obstacle detection) in Matlab/Simulink/Stateflow with unit tests
+- Deeply familiar with Matlab Embedded Coder - including generating and building code for an vehicle  electronic control units (ECUs) using template make files, tlc files
+- Experience wrapping C source code in an Simulink S-function
+- Managed an RTOS to schedule tasks and manage controller CAN bus with vehicle
+- Experience debugging ECU (lauterbach / TRACE32)
+- Recorded manufacturer CAN schema in the form of a DBC file for use in encoding and decoding.
+- Setup control system hardware in the loop (HIL) running with vehicle simulator. 
+- Utilized ECU vendor API to configure EEPROM, intercore communication, CAN hardware
+- Familiar with CAN J1939 concepts - address claiming, source/destination, broadcast, BAM
+- Exposure to offroad safety standards for agriculture and construction and working on safety hardware
+
+Outreach, leadership, and culture 
+- Involved in student outreach, mentorship of intern program, sponsorship and advisement of local senior capstone projects
+- 2022 Dimensions tradeshow - operated the offsite demonstration of a remote control bull dozer equipped with grade control
+- Active presentor of lunch and learn knowledge sharing for Simulink development workflow and Mathworks toolboxes for functional safety.
+- Lead quarterly hackathon teams to success resulting in the establishment of the main controls team source code repository
+- Weekly feedback sessions with the ECU vendor to develop their Simulink SDK
+
+#### 2023
+Core responsibilities
+- Built up the core controller libraries used in the autonomy systems
+- Deployed control algorithms as debian packages
+- Deprecated the legacy ECU and established the replacement embedded linux device as the core autonomy controller of the machine
+- Developed CAN drivers for integrating with other Trimble products
+- Controls lead for navgigating in a GNSS denied environment - led project planning and managed Jira project, roadmap, and deliverables to project team.
+- Compiled evaluation of control system using odometry estimate into formalized report for project stakeholders
+- Evaluation of the open source Nav 2 ROS stack
+- Developed ROS 2 control system
+- Implemented pure pursuit algorithm for navigation
+- Configured off the shelf ROS implementation of extended kalman filter to estimate odometry in a GNSS denied environment 
+- Lead generation of ROS packages from monolith code repository for the Controls team
+- Selected GNSS components for a ground truth system and configured our local base station for RTK corrections
+- Established the process for Simulink code generation to C++ and distributing as debian package.
+- Ported algorithms for geofence and obstacle stopping to C++, generated wrappers for the implementation, and integrated into a ROS node.
+- full software development lifecycle (design, development, test, deploy, integrate, hand-off)
+- Implemented quality gates for core repository with requirements on formatting, static analysis, documentation, and unit tests.
+- Identified options for technical documentation in repository (latex, PlanUML, markdown)
+- Maintained technical documentation for onboarding new employees and getting development environment
+- Familiar with using docker as a deployment mechanism on embedded linux
+- Contributed a ROS REP-103 compliant version of our GNSS driver to the inner-source repository
+
+
+Outreach, leadership, and culture
+- Panelist for local university students regarding autonomous systems and career development
+- Promoted Collaboration and re-use of internal autonomy components and libraries(inner-source) such as trajectory planner, GNSS drivers, ROS nodes, etc.
+- Established team agile processes (Retrospective, standup, backlog grooming)
+- Managed release process for core controller library (git tag, changelog, deployment to test/staging/production)
+
+
+### Siemens Gamesa Renewable Energy, Engineering Project Support - Blade Inspection Camera May 2019 – Dec 2020
 - Aided in commercializing a tower mounted turbine blade inspection device by developing a functional prototype
 - Enhanced the concept of operation and created business case to market viability of the remote inspection method
 - Improved inspection image accuracy of wind turbine blades using OpenCV to detect and track blade location
@@ -62,5 +120,13 @@ Independent Study, University of Colorado Boulder - Optimized Game Automation wi
 - Increased computational efficiency such that the automated system exceeds the average human response time
 
 ## SOFTWARE/TECHNICAL SKILLS
-- Proficient in C, CUDA, LabVIEW, Linux/Unix, MATLAB, Microsoft Office, OpenCV, Python, Simulink, SolidWorks
-- Hardware experience with Raspberry Pi, NVIDIA Jetson Nano, Arduino, National Instruments, Quanser
+- Proficient in C/C++, Python, Bash, MATLAB, Simulink, Dart
+- Frameworks: CUDA, OpenCV, ROS, Google Test, Flutter, Gazebo
+- Design: SolidWorks, Fusion 360, 3D printing (Cura, Prusa), PlantUML, Lucidchart
+- Development environment: Linux, VS Code, Github Copilot, clang
+- Tools: Microsoft Office, Google Suite, Docker, CMake, git, Bitbucket, Github, Jira, Confluence, Bamboo, Doxygen, Foxglove, Plot Juggler
+- Quality Assurance: cppcheck, clang-tidy, clang-format
+- Hardware experience with Raspberry Pi, NVIDIA Jetson Nano, Arduino, National Instruments, Quanser, Embedded Linux
+- Sensors: Camera, Radar, CAN enabled devices
+- Communication protocols: Serial, CAN, TCP/IP (Primarily UDP)
+- Technologies: GNSS (RTK + RTX)
